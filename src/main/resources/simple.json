@@ -1,0 +1,9 @@
+{
+  "productUuid": "a4ea78a6-cf23-4afb-b464-9b2622fbe80b",
+  "amountRequested": 120000,
+  "periodMonths": 13,
+  "monthlyIncome": 30000,
+  "monthlyExpenditure": 20000,
+  "employerIdentificationNumber": "123-45-6789",
+  "isPopular": false
+}
